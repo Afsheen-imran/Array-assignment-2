@@ -1,0 +1,18 @@
+{
+  "name": "array-assignement-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.12.12",
+    "D": "^1.0.0"
+  }
+}
